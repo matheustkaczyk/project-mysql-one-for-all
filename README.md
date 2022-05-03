@@ -1,4 +1,4 @@
-Projeto desenvolvidor durante o curso de desenvolvimento de software na Trybe. O objetivo
+Projeto desenvolvidor durante o curso de desenvolvimento de software na Trybe. O objetivo práticar a modelagem de bancos de dados do zero, os deixando conforme as normas de normalização.
 
 Data de entrega: 05/10/2021
 
